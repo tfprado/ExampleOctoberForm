@@ -7,5 +7,6 @@ This example will use a custom AJAX handler to take care of the submission, crea
 <h2>Reference:</h2>
 
 * [AJAX Handler documentation](https://octobercms.com/docs/ajax/handlers)
+* [AJAX API](https://octobercms.com/docs/ajax/attributes-api)
 * [Validation](https://octobercms.com/docs/services/validation)
 * [Request & Input](https://octobercms.com/docs/services/request-input)
